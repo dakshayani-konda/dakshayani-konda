@@ -16,19 +16,13 @@ I'm a Computer Science Engineering undergraduate passionate about building effic
 
 ## 🛠️ Skills
 
-**Programming Languages:** Java | Python (Basics)
-
-**Data Structures & Algorithms:** Arrays | Strings | Linked Lists | Stacks | Queues | Hashing | Sorting & Searching | Recursion
-
-**Database:** SQL | MySQL | CRUD | Joins | Aggregations | Constraints
-
-**Core Concepts:** OOP | DBMS
-
-**Web Technologies:** HTML | CSS | JavaScript
-
-**Tools:** Git | GitHub | VS Code | MySQL Workbench
-
-**Soft Skills:** Problem-solving | Analytical Thinking | Team Collaboration
+* **Programming:** Java, Python Fundamentals
+* **DSA:** Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting & Searching, Recursion
+* **Database:** SQL, MySQL, CRUD, Joins, Aggregations, Constraints
+* **Core:** OOP, DBMS, SDLC (Requirements, Design, Coding, Testing, Deployment)
+* **Web:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub, VS Code, MySQL Workbench
+* **Soft Skills:** Problem-solving, Analytical Thinking, Team Collaboration
 
 ## 🚀 Featured Projects
 
