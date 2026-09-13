@@ -16,49 +16,71 @@ I'm a Computer Science Engineering undergraduate passionate about building effic
 
 ## 🛠️ Skills
 
-* **Programming:** Java, Python Fundamentals
-* **DSA:** Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting & Searching, Recursion
-* **Database:** SQL, MySQL, CRUD, Joins, Aggregations, Constraints
-* **Core:** OOP, DBMS, SDLC (Requirements, Design, Coding, Testing, Deployment)
-* **Web:** HTML, CSS, JavaScript
-* **Tools:** Git, GitHub, VS Code, MySQL Workbench
-* **Soft Skills:** Problem-solving, Analytical Thinking, Team Collaboration
+**Programming:** Java | Python Fundamentals
+
+**Data Structures & Algorithms:** Arrays | Strings | Linked Lists | Stacks | Queues | Hashing | Sorting & Searching | Recursion
+
+**Database:** SQL | MySQL | CRUD | Joins | Aggregations | Constraints
+
+**Core Concepts:** OOP | DBMS | SDLC (Requirements | Design | Coding | Testing | Deployment)
+
+**Web Technologies:** HTML | CSS | JavaScript
+
+**Tools:** Git | GitHub | VS Code | MySQL Workbench
+
+**Soft Skills:** Problem-solving | Analytical Thinking | Team Collaboration
 
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
 
-Responsive portfolio website built to showcase projects and skills with an intuitive interface and smooth navigation.
+Responsive personal portfolio website showcasing projects, skills, education, certifications, and achievements with an intuitive interface.
 
 **Tech:** HTML | CSS | JavaScript
 
+🔗 [Repository](https://github.com/dakshayani-konda/Dakshayani-Konda-Portfolio)
+
 ### 💳 Credit Card Validator
 
-Responsive application that validates credit card numbers using the Luhn algorithm and identifies card types.
+Web-based application that validates credit card numbers using the Luhn algorithm with real-time feedback and validation history.
 
 **Tech:** Java | HTML | CSS | JavaScript
 
+🔗 [Repository](https://github.com/dakshayani-konda/CreditCardValidator)
+
 ### 🎓 Student Management System
 
-Relational database project for managing student records with CRUD operations, normalization, and database constraints.
+Relational database project for managing student records using CRUD operations, JOINs, aggregations, and database constraints.
 
 **Tech:** SQL | MySQL
 
+🔗 [Repository](https://github.com/dakshayani-konda/student_management-sql)
+
 ## 🧩 Problem Solving
 
-* 170+ DSA problems solved on LeetCode
-* Practicing Data Structures & Algorithms using Java
-* Focus areas include Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
+* 💻 170+ DSA problems solved on LeetCode
+* ☕ Practicing Data Structures & Algorithms using Java
+* 🔹 Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
+
+## 🎓 Education
+
+**Bachelor of Technology — Computer Science and Engineering**
+Geethanjali Institute of Science and Technology (GIST)
+CGPA: **8.90 / 10** | 2023–2027 | Nellore
+
+**Intermediate — AP State Board**
+Dr. BSR. Jr College
+Percentage: **94.8%** | 2021–2023 | Nellore
 
 ## 🏆 Achievements
 
-* 🏅 Earned 5 Microsoft Ignite trophies and 23 badges
+* 🏅 Earned **5 Microsoft Ignite trophies and 23 badges**
 
 ## 📜 Certifications
 
-* HackerRank — Java
-* Infosys Springboard — Python
-* EduPyramids, SINE, IIT Bombay — RDBMS PostgreSQL Training
+* **HackerRank** — Java
+* **Infosys Springboard** — Python
+* **EduPyramids, SINE, IIT Bombay** — RDBMS PostgreSQL Training
 
 ## 📫 Connect With Me
 
