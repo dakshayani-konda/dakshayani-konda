@@ -2,7 +2,6 @@
 
 🎓 Computer Science Engineering Undergraduate
 💻 Aspiring Software Development Engineer
-☕ Java | DSA | SQL | OOP
 
 ## 👩‍💻 About Me
 
