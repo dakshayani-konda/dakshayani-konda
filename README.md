@@ -1,83 +1,100 @@
 # Hi, I'm Dakshayani Konda 👋
 
-🎓 Computer Science Engineering Undergraduate
+🎓 Computer Science Engineering Undergraduate  
 💻 Aspiring Software Development Engineer
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering undergraduate passionate about building efficient software solutions and solving problems through programming.
+I'm a Computer Science Engineering undergraduate with hands-on experience in Java, React.js, SQL, Data Structures & Algorithms, and Generative AI, with a focus on Prompt Engineering.
 
- * 🔹 Strong focus on Java and Data Structures & Algorithms
- * 🔹 Solved 170+ DSA problems on LeetCode
- * 🔹 Knowledge of SQL, MySQL, and Database Management Systems
- * 🔹 Familiar with Object-Oriented Programming and web technologies
- * 🔹 Interested in building practical software projects and contributing to real-world applications
+* 🔹 Strong foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms
+* 🔹 Solved 170+ DSA problems on LeetCode
+* 🔹 Hands-on experience with React.js, JavaScript, HTML, CSS, and Vite
+* 🔹 Knowledge of SQL, MySQL, DBMS, and relational database design
+* 🔹 Exploring Generative AI, Prompt Engineering, and Natural Language Processing
+* 🔹 Currently building and strengthening technical skills through practical projects
 
 ## 🛠️ Skills
 
-**Programming:** Java | Python Fundamentals
+**Programming Languages:** Java | Python Basics | SQL
 
 **Data Structures & Algorithms:** Arrays | Strings | Linked Lists | Stacks | Queues | Hashing | Sorting & Searching | Recursion
 
-**Database:** SQL | MySQL | CRUD | Joins | Aggregations | Constraints
+**CS Fundamentals:** OOP | DBMS | SDLC Practices | Operating Systems | Computer Networks
 
-**Core Concepts:** OOP | DBMS | SDLC (Requirements | Design | Coding | Testing | Deployment)
+**Web Technologies:** HTML | CSS | JavaScript | React.js
 
-**Web Technologies:** HTML | CSS | JavaScript
+**AI & ML:** Prompt Engineering | Generative AI | Natural Language Processing (NLP)
 
-**Tools:** Git | GitHub | VS Code | MySQL Workbench
+**Database:** MySQL | SQL | CRUD | Joins | Subqueries | Aggregations | Primary & Foreign Keys
 
-**Soft Skills:** Problem-solving | Analytical Thinking | Team Collaboration
+**Tools & Platforms:** GitHub | VS Code | MySQL Workbench | IntelliJ IDEA
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 👗 VastraLedger — Clothing Store Management Dashboard
 
-Responsive personal portfolio website showcasing projects, skills, education, certifications, and achievements with an intuitive interface.
+React-based retail management dashboard supporting product, inventory, customer, sales, billing, and business reporting workflows.
 
-**Tech:** HTML | CSS | JavaScript
+**Tech:** React.js | JavaScript | Vite | React Router | React Hooks | LocalStorage
 
-🔗 [Repository](https://github.com/dakshayani-konda/Dakshayani-Konda-Portfolio)
+🔗 [Repository](https://github.com/dakshayani-konda/VastraLedger)
 
-### 💳 Credit Card Validator
+### 💳 Credit Card Validator — Luhn Algorithm
 
-Web-based application that validates credit card numbers using the Luhn algorithm with real-time feedback and validation history.
+Interactive web application that validates credit card numbers using the Luhn algorithm with real-time input validation and dynamic feedback.
 
-**Tech:** Java | HTML | CSS | JavaScript
+**Tech:** Java | HTML5 | CSS3 | JavaScript
 
 🔗 [Repository](https://github.com/dakshayani-konda/CreditCardValidator)
 
-### 🎓 Student Management System
+### 🎓 Student Management System — Database
 
-Relational database project for managing student records using CRUD operations, JOINs, aggregations, and database constraints.
+Relational MySQL database project for managing student, course, and academic records using CRUD operations, joins, subqueries, and aggregations.
 
 **Tech:** SQL | MySQL
 
 🔗 [Repository](https://github.com/dakshayani-konda/student_management-sql)
 
+## 💼 Experience
+
+### Java Programming Intern — InternOrbit
+
+**Mar 2025 – May 2025**
+
+* Developed software applications using Core Java and Object-Oriented Programming principles.
+* Applied data structures, exception handling, and debugging techniques to solve programming tasks.
+* Collaborated on assigned projects under mentor guidance.
+* Created unit test cases and resolved application bugs to improve code reliability.
+
+**Tech Stack:** Java | OOP | Data Structures | Debugging
+
 ## 🧩 Problem Solving
 
-*  💻 170+ DSA problems solved on LeetCode
-*  ☕ Practicing Data Structures & Algorithms using Java
-*  🔹 Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
+* 💻 170+ DSA problems solved on LeetCode
+* ☕ Practicing Data Structures & Algorithms using Java
+* 🔹 Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
 
 ## 🎓 Education
 
-**Bachelor of Technology — Computer Science and Engineering**
-Geethanjali Institute of Science and Technology (GIST)
+**Bachelor of Technology — Computer Science and Engineering**  
+Geethanjali Institute of Science and Technology (GIST)  
 CGPA: **8.90 / 10** | 2023–2027 | Nellore
 
-**Intermediate — AP State Board**
-Dr. BSR. Jr College
+**Intermediate — MPC, AP State Board**  
+Dr. BSR. Jr College  
 Percentage: **94.8%** | 2021–2023 | Nellore
 
 ## 🏆 Achievements
 
- 🏅 Earned **5 Microsoft Ignite trophies and 23 badges**
+* 🏅 **2nd Rank** — Academic Performance
+* 🏅 **Microsoft Ignite** — 5 Trophies, 23 Badges
+* 🏅 **Kaggle** — Python Coder Badge
 
 ## 📜 Certifications
 
 * **HackerRank** — Java
+* **NPTEL** — Natural Language Processing
 * **Infosys Springboard** — Python
 * **EduPyramids, SINE, IIT Bombay** — RDBMS PostgreSQL Training
 
