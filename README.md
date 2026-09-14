@@ -7,11 +7,11 @@
 
 I'm a Computer Science Engineering undergraduate passionate about building efficient software solutions and solving problems through programming.
 
-* 🔹 Strong focus on Java and Data Structures & Algorithms
-* 🔹 Solved 170+ DSA problems on LeetCode
-* 🔹 Knowledge of SQL, MySQL, and Database Management Systems
-* 🔹 Familiar with Object-Oriented Programming and web technologies
-* 🔹 Interested in building practical software projects and contributing to real-world applications
+ 🔹 Strong focus on Java and Data Structures & Algorithms
+ 🔹 Solved 170+ DSA problems on LeetCode
+ 🔹 Knowledge of SQL, MySQL, and Database Management Systems
+ 🔹 Familiar with Object-Oriented Programming and web technologies
+ 🔹 Interested in building practical software projects and contributing to real-world applications
 
 ## 🛠️ Skills
 
@@ -57,9 +57,9 @@ Relational database project for managing student records using CRUD operations, 
 
 ## 🧩 Problem Solving
 
-* 💻 170+ DSA problems solved on LeetCode
-* ☕ Practicing Data Structures & Algorithms using Java
-* 🔹 Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
+ 💻 170+ DSA problems solved on LeetCode
+ ☕ Practicing Data Structures & Algorithms using Java
+ 🔹 Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
 
 ## 🎓 Education
 
@@ -73,7 +73,7 @@ Percentage: **94.8%** | 2021–2023 | Nellore
 
 ## 🏆 Achievements
 
-* 🏅 Earned **5 Microsoft Ignite trophies and 23 badges**
+ 🏅 Earned **5 Microsoft Ignite trophies and 23 badges**
 
 ## 📜 Certifications
 
