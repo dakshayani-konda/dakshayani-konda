@@ -1,103 +1,44 @@
-# Hi, I'm Dakshayani Konda 👋
+<div align="center"> <img src="https://github.com/dakshayani-konda.png" width="140" style="border-radius:50%" />
+Dakshayani Konda
+Full-Stack Development · Java Engineering · Applied GenAI
+<p> <a href="https://linkedin.com/in/dakshayani-konda"> <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:dakshayanikonda@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/dakshayani-konda"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <br/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat" /> <img src="https://img.shields.io/badge/NLP-6E56CF?style=flat" /> </p> </div> <br/> <table> <tr> <td width="50%" valign="top">
+VastraLedger — Clothing Store Management
 
-🎓 Computer Science Engineering Undergraduate  
-💻 Aspiring Software Development Engineer
+React.js · JavaScript · LocalStorage
 
-## 👩‍💻 About Me
+Built a full-featured retail management dashboard covering product, inventory, customer, sales, billing, and reporting workflows. Implemented end-to-end CRUD operations, global search, and automated low-stock alerts using React Router and Hooks.
 
-I'm a Computer Science Engineering undergraduate with hands-on experience in Java, React.js, SQL, Data Structures & Algorithms, and Generative AI, with a focus on Prompt Engineering.
+→ View Repo
 
-* 🔹 Strong foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms
-* 🔹 Solved 170+ DSA problems on LeetCode
-* 🔹 Hands-on experience with React.js, JavaScript, HTML, CSS, and Vite
-* 🔹 Knowledge of SQL, MySQL, DBMS, and relational database design
-* 🔹 Exploring Generative AI, Prompt Engineering, and Natural Language Processing
-* 🔹 Currently building and strengthening technical skills through practical projects
+</td> <td width="50%" valign="top">
+Credit Card Validator — Luhn Algorithm
 
-## 🛠️ Skills
+Java · HTML5 · CSS3 · JavaScript
 
-**Programming Languages:** Java | Python Basics | SQL
+Implemented the Luhn algorithm to validate credit card numbers and verify structural authenticity, with real-time input validation and instant feedback in the browser.
 
-**Data Structures & Algorithms:** Arrays | Strings | Linked Lists | Stacks | Queues | Hashing | Sorting & Searching | Recursion
+→ View Repo
 
-**CS Fundamentals:** OOP | DBMS | SDLC Practices | Operating Systems | Computer Networks
+</td> </tr> <tr> <td width="50%" valign="top">
+Student Management System — Database
 
-**Web Technologies:** HTML | CSS | JavaScript | React.js
+SQL · MySQL
 
-**AI & ML:** Prompt Engineering | Generative AI | Natural Language Processing (NLP)
+Modeled a relational MySQL schema with primary and foreign keys to manage student, course, and academic records, and wrote queries using joins, subqueries, and aggregations for enrollment and performance reports.
 
-**Database:** MySQL | SQL | CRUD | Joins | Subqueries | Aggregations | Primary & Foreign Keys
+→ View Repo
 
-**Tools & Platforms:** GitHub | VS Code | MySQL Workbench | IntelliJ IDEA
+</td> <td width="50%" valign="top">
+Smart Career Path — AI Career Guidance Platform
 
-## 🚀 Featured Projects
+React.js · Node.js · Express · MongoDB
 
-### 👗 VastraLedger — Clothing Store Management Dashboard
+Full-stack MERN application offering skill assessments, personalized career recommendations, and progress tracking, with JWT/Google OAuth authentication and an AI-assisted recommendation engine.
 
-React-based retail management dashboard supporting product, inventory, customer, sales, billing, and business reporting workflows.
+→ View Repo
 
-**Tech:** React.js | JavaScript | Vite | React Router | React Hooks | LocalStorage
+</td> </tr> </table> <br/> <div align="center">
 
-🔗 [Repository](https://github.com/dakshayani-konda/VastraLedger)
+B.Tech Computer Science Engineering · Geethanjali Institute of Science and Technology (GIST) Java Programming Intern @ InternOrbit
 
-### 💳 Credit Card Validator — Luhn Algorithm
-
-Interactive web application that validates credit card numbers using the Luhn algorithm with real-time input validation and dynamic feedback.
-
-**Tech:** Java | HTML5 | CSS3 | JavaScript
-
-🔗 [Repository](https://github.com/dakshayani-konda/CreditCardValidator)
-
-### 🎓 Student Management System — Database
-
-Relational MySQL database project for managing student, course, and academic records using CRUD operations, joins, subqueries, and aggregations.
-
-**Tech:** SQL | MySQL
-
-🔗 [Repository](https://github.com/dakshayani-konda/student_management-sql)
-
-## 💼 Experience
-
-### Java Programming Intern — InternOrbit
-
-**Mar 2025 – May 2025**
-
-* Developed software applications using Core Java and Object-Oriented Programming principles.
-* Applied data structures, exception handling, and debugging techniques to solve programming tasks.
-* Collaborated on assigned projects under mentor guidance.
-* Created unit test cases and resolved application bugs to improve code reliability.
-
-**Tech Stack:** Java | OOP | Data Structures | Debugging
-
-## 🧩 Problem Solving
-
-* 💻 170+ DSA problems solved on LeetCode
-* ☕ Practicing Data Structures & Algorithms using Java
-* 🔹 Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Hashing, Sorting, Searching, and Recursion
-
-## 🎓 Education
-
-**Bachelor of Technology — Computer Science and Engineering**  
-Geethanjali Institute of Science and Technology (GIST)  
-CGPA: **8.90 / 10** | 2023–2027 | Nellore
-
-**Intermediate — MPC, AP State Board**  
-Dr. BSR. Jr College  
-Percentage: **94.8%** | 2021–2023 | Nellore
-
-## 🏆 Achievements
-
-* 🏅 **2nd Rank** — Academic Performance
-* 🏅 **Microsoft Ignite** — 5 Trophies, 23 Badges
-* 🏅 **Kaggle** — Python Coder Badge
-
-## 📜 Certifications
-
-* **HackerRank** — Java
-* **NPTEL** — Natural Language Processing
-* **Infosys Springboard** — Python
-* **EduPyramids, SINE, IIT Bombay** — RDBMS PostgreSQL Training
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/dakshayani-konda) • [GitHub](https://github.com/dakshayani-konda)
+</div>
