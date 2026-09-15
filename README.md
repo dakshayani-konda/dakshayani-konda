@@ -7,13 +7,13 @@
 ### Software Development · Full-Stack Development · Java Engineering
 
 <p>
-  <a href="https://linkedin.com/in/dakshayani-konda">
+  <a href="https://linkedin.com/in/dakshayani-konda" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dakshayanikonda@gmail.com">
+  <a href="mailto:dakshayanikonda@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/dakshayani-konda">
+  <a href="https://github.com/dakshayani-konda" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,6 @@
   <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat" />
   <img src="https://img.shields.io/badge/NLP-6E56CF?style=flat" />
